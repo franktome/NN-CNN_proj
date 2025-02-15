@@ -1,5 +1,5 @@
-# NN-RNN_proj
-Implement NN and RNN only with numpy and compare performance with open libraries.
+# NN-CNN_proj
+Implement NN and CNN only with numpy and compare performance with open libraries.
 
 
 ## 1. NN with Python
